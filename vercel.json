@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Santino Profile/index.html" },
+    { "source": "/profile", "destination": "/Santino Profile/profile.html" }
+  ]
+}
